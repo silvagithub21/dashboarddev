@@ -1,6 +1,6 @@
 # FlowBoard - Dashboard de Produtividade Dev 🚀
 
-![Screenshot do Projeto](./public/screenshot.png)
+![Screenshot do Projeto](public/imagem_2026-05-02_101611997.png)
 
 ## Sobre o Projeto
 
