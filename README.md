@@ -35,7 +35,7 @@ Com foco em fluidez e eficiência, o painel foca no que realmente importa: organ
 
 1. Clone o repositório:
    ```bash
-   git clone <sua-url-aqui>
+   git clone https://github.com/silvagithub21/dashboarddev
    ```
 2. Instale as dependências:
    ```bash
